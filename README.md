@@ -1,9 +1,8 @@
-[GitHub](https://drive.google.com/file/d/1qQE0SUg0lOKQTJ40I4Iwi94PAX21Bw1T/view?usp=drive_link)
+[ppt](https://drive.google.com/file/d/1qQE0SUg0lOKQTJ40I4Iwi94PAX21Bw1T/view?usp=drive_link)
 
 # Chatbot_using_NLP_AICTE_Cycle4
 Training for the project on Implementation of Chatbot using NLP
-
-[GitHub](https://github.com/Sanghmitra12/ChatBot-.git)
+[repo. link](https://github.com/Sanghmitra12/ChatBot-.git)
 
 To run streamlit use the command as
 # streamlit run chatbot.py
